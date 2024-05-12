@@ -1,0 +1,82 @@
+ConnectivityStatus		Localtime: 2024/02/09 12:54:30		Utc: 2024/02/09 05:54:30
+Host name is Admin.
+	1) Address: 127.0.0.1
+
+SkuVersion: 1.104.58.1030
+Current Master Config url: http://sims4cdn.ea.com/content.ts4/master/live/masterconfig.txt
+Time left to sync: 299 secs
+Current Configuration:
+BugSentry: https://gen4.reports.tools.gos.ea.com/bugsentry
+WebstoreURL: https://www.thesims.com/game/store
+TelemetryServerName: https://river.data.ea.com
+TelemetryPinServerName: https://pin-river.data.ea.com
+TelemetryServiceName: pc/sims4-2013-pc-retail
+TelemetryEnv: prod
+TelemetryServerPort: 443
+SpotlightURL: https://pin-em.data.ea.com/em/
+SpotlightCdnContentUrl: http://sims4cdn.ea.com/content.ts4/master/spotlight/
+
+Kill Switches:
+0 SERVICE_FLAG_LOGIN
+0 SERVICE_FLAG_EXCHANGE_ALONE
+0 SERVICE_FLAG_SOCIAL_ALONE
+1 SERVICE_FLAG_MTX_ALONE
+0 SERVICE_FLAG_TELEMETRY
+1 SERVICE_FLAG_FACEBOOK_CASDEMO
+0 SERVICE_FLAG_SPOTLIGHT
+0 SERVICE_FLAG_BUGSENTRY
+1 SERVICE_FLAG_BUGSENTRY_EXCEPTIONS
+1 SERVICE_FLAG_RECOMMENDATION_ENGINE_ALONE
+0 SERVICE_FLAG_DISABLE_PHOTO_TEXTURES
+1 SERVICE_FLAG_FACEBOOK
+0 SERVICE_FLAG_PREORDER
+1 SERVICE_FLAG_PACKBROWSER_WIN
+1 SERVICE_FLAG_PACKBROWSER_MAC
+0 SERVICE_FLAG_TWITTER
+0 SERVICE_FLAG_WEBSTORE_WIN
+0 SERVICE_FLAG_WEBSTORE_MAC
+0 SERVICE_FLAG_TELEMETRY_PIN
+1 SERVICE_FLAG_CAMPFIRE_PHONE_NUMBER_PROMOTION
+1 SERVICE_FLAG_ENABLE_CUSTOM_SIM_TEXTURES
+URL:http://sims4cdn.ea.com/content.ts4/config/live/killswitch/killswitch_normal_pc.txt
+
+Connectivity Checklist:
+1 kCasConnected
+1 kZoneConnected
+0 kLiveEditEnabled
+0 kOnlineServicesPermanentlyUnavailable
+
+0 kOnlineServicesTemporarilyUnavailable
+0 kOnlineServicesUserDisabled
+1 kOnlineServicesAutoReconnectEnabled
+1 kOriginEnabled
+
+0 kDisableOriginArg
+0 kIsUserUnderAge
+0 kConnectFailure
+0 kConnectingToOnlineServices
+
+0 kConnectedToOnlineServices
+0 kJustGotOnlineServices
+1 kJustLostOnlineServices
+0 kInternetConnected
+
+1 kOriginAppConnected
+0 kOriginOnlineMode
+0 kGotOriginEntitlements
+
+1 kLoginServerConnected
+0 kSims4GameLaunch
+1 kSims4Authorized
+
+0 kUserGalleryBanned
+
+1 kSetUserDataForConnections
+1 kReadyToPlayGame
+1 kFinishConfiguration
+1 kUGCServiceConnected
+
+Client State:kConnected
+Connection State:STATE_CONNECTED
+
+
